@@ -1,4 +1,6 @@
-![Header](https://unite.un.org/sites/unite.un.org/files/styles/panopoly_image_original/public/pages/analytics-banner_1.png?itok=ZMQjool9)
+![Header](https://github.com/user-attachments/assets/70d12bc3-9091-4bc1-b4f8-9afe065cacc7)
+
+
 
 # 👋 Hi, I'm Chandan Aruk!
 
