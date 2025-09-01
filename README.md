@@ -7,9 +7,11 @@
 
 ## 🚀 About Me
 
-- 🎓 **BCA Graduate** | 📊 **Aspiring Data Analyst & Scientist**
-- 📚 Currently doing a **Data Science Course**
-- 🐍 Python Enthusiast | 📊 Data Wrangler | 📈 Dashboard Creator
+- 🎓 BCA Graduate | 📊 Data Analyst & Aspiring Data Scientist
+- 📚 Completed a Data Science Program with hands-on projects in analytics, visualization, and machine learning
+- 💻 Skilled in Python, SQL, Power BI, Excel, and Machine Learning
+- 📊 Experienced in data cleaning, data analysis, machine learning, and building interactive dashboards
+- ✨ Passionate about transforming raw data into meaningful insights that support data-driven decisions
 
 ## 🔧 Tech Stack
 
@@ -19,6 +21,7 @@
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=tensorflow&logoColor=orange)
 
 ## 📬 Connect with Me
 
